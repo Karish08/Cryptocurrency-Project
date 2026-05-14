@@ -1,0 +1,19 @@
+# IDEs
+.idea/
+*.iml
+.vscode/
+
+# Build and dependencies
+target/
+node_modules/
+build/
+dist/
+
+# Logs
+logs/
+*.log
+
+# Docker
+mysql-data/
+redis-data/
+backend-logs/
